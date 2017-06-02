@@ -20,8 +20,8 @@ function create(){
     var ground = platforms.create(0,game.world.height-50,'ground');
 
 
+}
 
-
-
-
+function update(){
+	
 }
